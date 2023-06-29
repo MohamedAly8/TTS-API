@@ -1,0 +1,9 @@
+transformers
+torch
+datasets
+soundfile
+datasets
+sentencepiece
+torchaudio
+git+https://github.com/huggingface/transformers
+flask
